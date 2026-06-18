@@ -97,7 +97,7 @@ exercise most of these rights yourself, instantly, from
 
 For any request you cannot resolve in-app — or for any question about
 how Google AdMob processes the advertising identifier — email
-**feedback@tinybites.app** and we will respond within 30 days.
+**greysonmiller67@gmail.com** and we will respond within 30 days.
 
 ### 6. Security
 
@@ -109,7 +109,7 @@ data leaves the device, so there is no transmission to secure.
 ### 7. Third-party services we use
 
 - **Google AdMob** — advertising, see §3. Privacy policy:
-  <https://policies.google.com/privacy>.
+  <https://sana-khan.github.io/tinybites-privacy-policies/>.
 - **Expo / React Native** — the framework the app is built on. Expo
   does not collect end-user data from this app in the managed
   workflow we use.
